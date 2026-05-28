@@ -1,4 +1,3 @@
-yfinance
 streamlit
 yfinance
 pandas
